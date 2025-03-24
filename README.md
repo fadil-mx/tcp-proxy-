@@ -9,15 +9,14 @@ This project consists of:
 
 ## ⚙️ How It Works
 
-### 1. Start the Proxy
+###  Start the Proxy
 To start the proxy, run the following command:
 ```bash
-python ship_proxy.py
-
-
 ### Start the offshoreproxy
-```sh
 python offshore_proxy.py
+
+### Start the shiproxy
+python ship_proxy.py
 
 ###You can use curl to send requests through the proxy.
 ```sh
